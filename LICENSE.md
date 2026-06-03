@@ -1,4 +1,4 @@
-# 
+# Native dex sniper bot tools for Mac OS | Turbo dex sniper bot tools for PC Windows. Featuring order book analysis and format conversion — optimized for maximum performance on every platform.
 
 
 
